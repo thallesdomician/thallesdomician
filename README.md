@@ -45,3 +45,7 @@ I am a tech lead and senior developer with a strong background in building scala
 ### 🔗 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/thallesdomician)
 - 📧 [Email](mailto:thalles.domician@gmail.com)
+
+
+
+![Visitor Count](https://profile-counter.glitch.me/thallesdomician/count.svg)
