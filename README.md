@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Thalles Oliveira!
-🚀 Tech Lead | Senior Software Developer | Typescript | AWS | React | SQL | NoSQL
+🚀 Senior Software Developer | Typescript | AWS | React | SQL | NoSQL
 
 🌎 Based in São Paulo, Brazil | [LinkedIn](https://www.linkedin.com/in/thallesdomician) | [Email](mailto:thalles.domician@gmail.com)
 
 ---
 
 ### About Me
-I am a tech lead and senior developer with a strong background in building scalable, resilient systems using modern technologies and microservices architectures. I thrive on delivering efficient, high-quality solutions and empowering development teams.
+I am a senior developer with a strong background in building scalable, resilient systems using modern technologies and microservices architectures. I thrive on delivering efficient, high-quality solutions and empowering development teams.
 
 ### 🔧 Technologies & Tools
 - **Languages**: Typescript, JavaScript, Python, SQL, NoSQL
