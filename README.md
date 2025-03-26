@@ -35,7 +35,6 @@ I am a senior developer with a strong background in building scalable, resilient
 ---
 
 ### 📊 GitHub Stats
-![Thalles's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thallesdomician&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thallesdomician&theme=dracula&hide_border=true&border_radius=4.6&short_numbers=true&exclude_days=Sun%2CSat)
 
